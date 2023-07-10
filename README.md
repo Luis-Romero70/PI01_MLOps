@@ -4,7 +4,9 @@ Proyecto de Data Science para un Sistema de Recomendación de Películas
 
 <h2 align='center'>
 <h2 align='center'>
-  PI01_MLOps 🎬🍿
+  PI01_MLOps
+
+
 </h2>
 
 
