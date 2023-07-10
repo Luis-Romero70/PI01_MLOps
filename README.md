@@ -23,12 +23,12 @@ En este laboratorio individual de ML Ops, se llevará a cabo el desarrollo de un
 # Resumen de los procesos:
 **1. Extracción, Transformación y Carga (ETL):** Se realizará el proceso de extracción de datos de películas, su transformación para limpieza y preparación, y finalmente su carga en un formato adecuado para su posterior análisis y entrenamiento del modelo.<br>
 **2. Análisis Exploratorio de Datos (EDA):** Se realizará un análisis detallado de los datos de películas, explorando características clave, identificando patrones y relaciones entre variables, y tomando decisiones sobre el tratamiento de datos faltantes o inconsistentes.<br>
-**3. Desarrollo del Modelo de Clasificación:** Se implementará un modelo de clasificación utilizando técnicas de Machine Learning, como árboles de decisión, regresión logística o algoritmos de recomendación, para generar recomendaciones de películas basadas en las preferencias de los usuarios.<br>
+**3. Desarrollo del Modelo de Clasificación:** Se implementará un modelo de clasificación utilizando técnicas de Machine Learning para generar recomendaciones de películas basadas en las preferencias de los usuarios.<br>
 **4. Implementación de API para consultas de recomendaciones:** Se creará una interfaz de consulta donde los usuarios puedan ingresar sus preferencias y obtener recomendaciones de películas acorde a los criterios seleccionados.<br>
 **5. Despliegue del modelo y la API:** Se llevará a cabo el despliegue del modelo y la API en un entorno de producción, asegurando la disponibilidad y accesibilidad para los usuarios finales.
 
 # Herramientas Utilizadas:
-- Scikit Learn: Utilizado para el desarrollo y entrenamiento del modelo de clasificación.
+- Scikit Learn: Utilizado para el modelo de clasificación.
 - Python: Lenguaje de programación principal utilizado en el desarrollo del proyecto.
 - Pandas: Utilizado para la manipulación y análisis de datos estructurados.
 - NumPy: Utilizado para realizar operaciones numéricas y manipulación de datos.
@@ -41,6 +41,7 @@ En este laboratorio individual de ML Ops, se llevará a cabo el desarrollo de un
    - Limpieza y preprocesamiento de datos para eliminar valores atípicos y datos faltantes.
    - Transformación de variables categóricas y codificación de características relevantes.
    - Generación de un dataset limpio y listo para su análisis y entrenamiento del modelo.
+   - Link para el notebook donde se implementó esta etapa: (https://github.com/Luis-Romero70/PI01_MLOps/blob/master/Lab01_MLOps_ETL.ipynb)
 
 ## 2. Análisis Exploratorio de Datos (EDA):
    - Exploración visual y estadística de las variables de interés.
