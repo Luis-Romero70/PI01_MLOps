@@ -76,7 +76,7 @@ En este laboratorio individual de ML Ops, se ha llevado a cabo el desarrollo de 
 
 ## Recomendaciones
 
-- Para la función `peliculas_idioma`, ingresar solamente las abreviaturas del idioma (por ejemplo, "inglés" sería "en").
+- Para la función `peliculas_idioma`, ingresar solamente las abreviaturas del idioma (por ejemplo, "inglés" sería "en", "español" sería "es").
 
 **Autor:** <br>
 Luis Eduardo Romero
