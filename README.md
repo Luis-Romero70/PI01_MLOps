@@ -77,8 +77,8 @@ En este laboratorio individual de ML Ops, se ha llevado a cabo el desarrollo de 
 
 ## Links
 
-- API de consulta de películas y modelo de sistema de recomendación(https://proyectodsft12-01-mlops.onrender.com/docs#/)
-- [Videotutorial del trabajo realizado en YouTube](#)
+- API de consulta de películas y modelo de sistema de recomendación[https://proyectodsft12-01-mlops.onrender.com/docs#/]
+- Videotutorial del trabajo realizado en YouTube:[https://youtu.be/eq5kRkk2V7s]
 
 ## Recomendaciones
 
